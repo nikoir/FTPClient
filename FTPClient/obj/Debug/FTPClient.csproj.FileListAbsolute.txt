@@ -1,0 +1,1 @@
+c:\users\николай\documents\visual studio 2015\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
